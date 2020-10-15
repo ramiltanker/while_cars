@@ -22,4 +22,22 @@
 @import url(../blocks/header/__list/header__list.css);
 @import url(../blocks/header/__menu-link/header__menu-link.css);
 @import url(../blocks/header/__menu/header__menu.css);
+<<<<<<< HEAD
 /* Header */
+
+
+/* Description */
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__box/description__box.css);
+@import url(../blocks/description/__container/description__container.css);
+@import url(../blocks/description/__adress/description__adress.css);
+@import url(../blocks/description/__contacts/description__contacts.css);
+@import url(../blocks/description/__socials/description__socials.css);
+@import url(../blocks/description/__social-link/description__social-link.css);
+@import url(../blocks/description/__map/description__map.css);
+@import url(../blocks/description/__image/description__image.css);
+/* Description */
+=======
+/* Header */
+>>>>>>> 1f2c5b109f7df7687dfde1c80549669d894d6a3f

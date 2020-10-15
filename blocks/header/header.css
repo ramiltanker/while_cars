@@ -1,5 +1,9 @@
 .header {
   width: 100%;
+<<<<<<< HEAD
+  height: 100vh;
+=======
+>>>>>>> 1f2c5b109f7df7687dfde1c80549669d894d6a3f
   background-image: url(../../images/EFstweTWoAAYmJi.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100vh;
@@ -10,10 +14,14 @@
   position: relative;
 }
 
+<<<<<<< HEAD
+@media all and (max-width: 768px) {
+=======
 
 
 @media all and (max-width: 768px) {
 
+>>>>>>> 1f2c5b109f7df7687dfde1c80549669d894d6a3f
   .header:before {
     content: "";
     position: fixed;
@@ -25,6 +33,13 @@
   }
 }
 
+<<<<<<< HEAD
+@media all and (max-width: 455px) {
+  .header {
+    height: 500px;
+  }
+}
+=======
 
 @media all and (max-width: 455px) {
 
@@ -33,3 +48,4 @@
     }
   }
   
+>>>>>>> 1f2c5b109f7df7687dfde1c80549669d894d6a3f
