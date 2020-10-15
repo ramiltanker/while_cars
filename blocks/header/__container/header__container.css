@@ -1,0 +1,14 @@
+.header__container {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+@media all and (max-width: 455px) {
+    .header__container {
+        height: 100%;
+    }
+}
