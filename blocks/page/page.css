@@ -1,0 +1,9 @@
+.page {
+    margin: auto;
+}
+
+@media all and (max-width: 768px) {
+    .page.lock {
+    
+    }
+}
