@@ -25,14 +25,9 @@
     }
 }
 
-@media all and (max-width: 416px) {
-    .header__slider-caption {
-        font-size: 11px;
-    }
-}
 
 @media all and (max-width: 356px) {
     .header__slider-caption {
-        font-size: 10px;
+        font-size: 12px;
     }
 }

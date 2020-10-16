@@ -5,9 +5,9 @@
 }
 
   
-  @media all and (max-width: 456px) {
+  @media all and (max-width: 580px) {
     .header__slide-left {
-        top: 44%;
-        left: 0;
+        top: 70%;
+        left: 25%;
     }
 }

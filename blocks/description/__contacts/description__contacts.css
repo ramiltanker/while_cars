@@ -27,11 +27,8 @@
 @media all and (max-width: 565px) {
     .description__contacts {
       font-size: 12px;
+      margin-right: 15px;
     }
   }
 
-  @media all and (max-width: 425px) {
-    .description__contacts {
-      font-size: 10px;
-    }
-  }
+

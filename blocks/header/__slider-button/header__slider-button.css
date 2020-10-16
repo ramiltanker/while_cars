@@ -49,8 +49,8 @@
 
 @media all and (max-width: 416px) {
   .header__slider-button {
-    font-size: 10px;
-    min-width: 120px;
-    min-height: 25px;
+    font-size: 15px;
+    min-width: 170px;
+    min-height: 45px;
   }
 }

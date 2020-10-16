@@ -18,26 +18,15 @@
     }
 }
 
-@media all and (max-width: 620px) {
-    .header__slider-title {
-        font-size: 30px;
-    }
-}
-
 @media all and (max-width: 455px) {
     .header__slider-title {
         font-size: 25px;
     }
 }
 
-@media all and (max-width: 416px) {
-    .header__slider-title {
-        font-size: 20px;
-    }
-}
 
 @media all and (max-width: 356px) {
     .header__slider-title {
-        font-size: 18px;
+        font-size: 23px;
     }
 }

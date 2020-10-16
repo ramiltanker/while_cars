@@ -16,13 +16,14 @@ const descriptionContainer = document.querySelector('.description__container');
 const descriptionAdress = Array.from(descriptionContainer.querySelectorAll('.description__adress'));
 const descriptionContacts = descriptionContainer.querySelector('.description__contacts');
 const descriptionSocialLink = descriptionContainer.querySelector('.description__social-link');
-
+const page = document.querySelector('.page');
 function changeDescriptionColor() {
     descriptionAdress.forEach(function(event) {
         event.style.color = 'black';
     })
     descriptionContacts.style.color = 'black';
     descriptionSocialLink.style.color = 'black';
+    
 }
 
 function callBackDescriptionColor() {

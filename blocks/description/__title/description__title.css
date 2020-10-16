@@ -7,6 +7,15 @@
     margin-top: 0;
 }
 
+
+
+
+@media all and (max-width: 1024px) {
+    .description__title {
+        margin-bottom: 50px;
+    }
+}
+
 @media all and (max-width: 1081px) {
     .description__title {
         font-size: 40px;
@@ -28,5 +37,6 @@
 @media all and (max-width: 425px) {
     .description__title {
         font-size: 25px;
+        margin-bottom: 30px;
     }
 }
