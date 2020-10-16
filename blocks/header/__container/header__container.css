@@ -1,5 +1,4 @@
 .header__container {
-<<<<<<< HEAD
   width: 100vw;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.7);
@@ -7,18 +6,3 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
-=======
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, 0.7);
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-@media all and (max-width: 455px) {
-    .header__container {
-        height: 100%;
-    }
-}
->>>>>>> 1f2c5b109f7df7687dfde1c80549669d894d6a3f

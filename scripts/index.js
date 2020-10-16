@@ -9,7 +9,6 @@ function classActiveAdd() {
     body.classList.toggle('lock');
 }
 
-<<<<<<< HEAD
 burger.addEventListener('click', classActiveAdd);
 
 
@@ -36,6 +35,3 @@ function callBackDescriptionColor() {
 
 descriptionContainer.addEventListener('mouseover', changeDescriptionColor);
 descriptionContainer.addEventListener('mouseout', callBackDescriptionColor);
-=======
-burger.addEventListener('click', classActiveAdd);
->>>>>>> 1f2c5b109f7df7687dfde1c80549669d894d6a3f
