@@ -26,14 +26,14 @@
 
 
 /* Description */
-@import url(../blocks/description/description.css);
-@import url(../blocks/description/__title/description__title.css);
-@import url(../blocks/description/__box/description__box.css);
-@import url(../blocks/description/__container/description__container.css);
-@import url(../blocks/description/__adress/description__adress.css);
-@import url(../blocks/description/__contacts/description__contacts.css);
-@import url(../blocks/description/__socials/description__socials.css);
-@import url(../blocks/description/__social-link/description__social-link.css);
-@import url(../blocks/description/__map/description__map.css);
-@import url(../blocks/description/__image/description__image.css)
+@import url(../blocks/descrip/description.css);
+@import url(../blocks/descrip/__title/description__title.css);
+@import url(../blocks/descrip/__box/description__box.css);
+@import url(../blocks/descrip/__container/description__container.css);
+@import url(../blocks/descrip/__adress/description__adress.css);
+@import url(../blocks/descrip/__contacts/description__contacts.css);
+@import url(../blocks/descrip/__socials/description__socials.css);
+@import url(../blocks/descrip/__social-link/description__social-link.css);
+@import url(../blocks/descrip/__map/description__map.css);
+@import url(../blocks/descrip/__image/description__image.css);
 /* Description */
