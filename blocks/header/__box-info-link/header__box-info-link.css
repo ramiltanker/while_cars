@@ -3,6 +3,7 @@
   color: white;
   margin-top: 20px;
   max-height: 20px;
+  transition: all 0.3s linear 0s;
 }
 
 .header__box-info-link:hover {

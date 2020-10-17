@@ -36,4 +36,15 @@
 @import url(../blocks/description/__social-link/description__social-link.css);
 @import url(../blocks/description/__map/description__map.css);
 @import url(../blocks/description/__image/description__image.css);
+@import url(../blocks/description/__describe-box/description__describe-box.css);
+@import url(../blocks/description/__describe-text/description__describe-text.css);
+@import url(../blocks/description/__describe-company/description__describe-box.css);
+@import url(../blocks/description/__describe-text-container/description__describe-text-container.css);
+@import url(../blocks/description/__describe-company/description__describe-company.css);
 /* Description */
+
+/* Slider */
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__item/slider__item.css);
+@import url(../blocks/slider/__styles/slider__styles.css);
+/* SLider */
